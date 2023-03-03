@@ -17,7 +17,7 @@ body {
 #header {
     width: 100%;
     height: 100vh;
-    background-image: url(./images/sunflower.jpg);
+    background-image: url(images/sunflower.JPG);
     background-size: cover;
     background-position: center;
 }
@@ -257,7 +257,7 @@ form .btn2 {
 /* ------------ css for small screen--------- */
 @media only screen and (max-width: 600px) {
     #header {
-        background-image: url(Images/phone-background.jpg);
+        background-image: url(Images/phone-background.JPG);
     }
 
     .header-text {
